@@ -17,8 +17,9 @@ import tempfile
 
 ENTRY_TEXT = (
     "To: my dad\n"
-    "I typed 'I forgive you' the night you stopped calling and I keep "
-    "rewriting it because I don't know if I mean it yet or if I just miss you."
+    "I typed 'I forgive you' the night you stopped calling and I've "
+    "rewritten it a hundred times because I still can't tell whether I mean it or just "
+    "miss having a dad to call."
 )
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
